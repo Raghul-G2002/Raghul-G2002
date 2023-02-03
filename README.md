@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raghul
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning and Cloud Computing
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning and Cloud Computing. I'm an AWS Cloud Practitioner, AWS Developer Associate 🌏.
 - 🌱 I’m currently learning Bachelors of Information Technology in Information Technology Department
 - 📫 How to reach me 
 -   -- Contact: +91 7577948377
