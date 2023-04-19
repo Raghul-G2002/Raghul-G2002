@@ -9,7 +9,7 @@
 - AWS Data Analytics Specialty
 - Principle AI & Cloud Lead: AWS Cloud Club St. Joseph's Institute of Technology
 - Organizer: AWS Cloud Club St. Joseph's Institute of Technology
-- AI Engineer, Research Scientist, Cloud Enginner, MLOps, Software Developer, Data Scientist, Data Analyst
+- AI Engineer, Research Scientist, Cloud Engineer, MLOps, Software Developer, Data Scientist, Data Analyst
 ```
 
 * :pushpin: Linkedin: [Linkedin](https://www.linkedin.com/in/raghul-gopal-16186b202/)
