@@ -32,8 +32,8 @@
 
 - :classical_building: YouTube
   - :red_envelope: Digital Content Creator | Technology Meetups 
-        - :tickets: Started the Channel to enhance my technical kinds of stuff recurrently, which increased by boost towards Technology
-        - :tickets: Serves as the Main Source for AWS Cloud Club at St. Joseph’s Institute of Technology, where Technical Meet-ups with Experts, Events from the Club, Online classes, Hands-on-Session to AWS Services, and more.
+      - :tickets: Started the Channel to enhance my technical kinds of stuff recurrently, which increased by boost towards Technology
+      - :tickets: Serves as the Main Source for AWS Cloud Club at St. Joseph’s Institute of Technology, where Technical Meet-ups with Experts, Events from the Club, Online classes, Hands-on-Session to AWS Services, and more.
         
 - :classical_building: Niograph Technology Consulting LLP 
   - :red_envelope: Data Analyst | Technology Analyst Intern (Remote) 
