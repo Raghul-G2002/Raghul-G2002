@@ -55,6 +55,16 @@
       - :tickets: Completed a Detection process using the Proposed Model – RCNN conjugated RPN layers, which achieved 80% accuracy in detecting objects, and was termed a state-of-art model in the complete research
       
 ## Projects
+- :briefcase: Recommendation System using MXnet Models and Factorization Machines using AWS SageMaker
+  ```
+  Developed a recommendation system for the Movielens dataset using MXNet models and AWS SageMaker Factorization Machines Algorithm.
+  Designed and implemented the system to analyze user preferences and provide personalized movie recommendations.
+  Achieved high accuracy in predicting user ratings and improved user satisfaction with the recommendation system.
+  Successfully developed and implemented a recommendation system with high accuracy in predicting user ratings.
+  Improved user satisfaction with the personalized movie recommendations provided by the system.
+  Received positive feedback from stakeholders on the effectiveness of the recommendation system.
+
+  ```
 - :briefcase: "CryptoSafe: Safeguarding Your Investments with Advanced Layered and Conjugated LSTM False Cryptocurrency Detection"
   ``` 
   This project aims to detect 11 types of false Crypto keys using LSTM and Conjugated LSTM models. 
