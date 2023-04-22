@@ -16,6 +16,8 @@
 * :pushpin: Youtube: [Youtube](https://www.youtube.com/channel/UCvP-wYnEsq75NGjibrPIpDw)
 * :pushpin: Instagram: [Instagram](https://www.instagram.com/_raghul_gopal_/?next=%2F)
 * :pushpin: Hugging Face: [Hugging Face](https://huggingface.co/raghulgopal)
+* :pushpin: LeetCode: [LeetCode](https://leetcode.com/rahulsteverz3000/)
+* :pushpin: Hacker Rank: [Hacker Rank](https://www.hackerrank.com/rahulsteverz3000)
 * :email: EmailID: raghulgopal2002@gmail.com
 * :email: Alternate EmailID: rahulsteverz3000@gmail.com
 * :telephone_receiver: Contact: +91 7577948377
