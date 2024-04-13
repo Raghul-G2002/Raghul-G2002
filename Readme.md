@@ -17,18 +17,7 @@
 </div>
 
 - 👋 Hi, I’m @Raghul
-- :tada: :tada: Software Engineer (AI and Cloud), Data Scientist, AI Research Scientist with 3+ Years of College Level Experience
-- :sparkler: ``` AWS Cloud Club Captain ``` for India Region, one among the 10 candidates from India. :sparkler: :sparkler: ``` Principle AI & Cloud Lead ``` :sparkler: :sparkler: ``` Organizer of AWS Cloud Club at St. Joseph’s Institute of Technology ``` delivering AWS impacts and efficiencies to students through Technology meetups, Hands-on-Session, and more.
-
-## Profile
-```
-- AWS Cloud Club Captain
-- AWS Machine Learning Specialty
-- AWS Data Analytics Specialty
-- Principle AI & Cloud Lead: AWS Cloud Club St. Joseph's Institute of Technology
-- Organizer: AWS Cloud Club St. Joseph's Institute of Technology
-- AI Engineer, Research Scientist, Cloud Engineer, MLOps, Software Developer, Data Scientist, Data Analyst
-```
+- :tada: :tada: AWS Community Builder 🥷(ML & GenAI) | Research Freak | Talks about AI, AGI & Cloud Deployments of AI & AGI | Public Speaker 🎤
 
 
 
